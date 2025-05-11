@@ -1,0 +1,12 @@
+
+[[Snippets]]
+  Description = "Edit bashrc"
+  Output = ""
+  Tag = []
+  command = "nvim ~/.bashrc"
+
+[[Snippets]]
+  Description = "reload bashrc"
+  Output = ""
+  Tag = []
+  command = "source ~/.bashrc"
