@@ -1,0 +1,205 @@
+[38;5;238m───────┬────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[0m
+       [38;5;238m│ [0mFile: [1mLICENSE[0m
+[38;5;238m───────┼────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[0m
+[38;5;238m   1[0m   [38;5;238m│[0m [38;5;231m                                 Apache License[0m
+[38;5;238m   2[0m   [38;5;238m│[0m [38;5;231m                           Version 2.0, January 2004[0m
+[38;5;238m   3[0m   [38;5;238m│[0m [38;5;231m                        http://www.apache.org/licenses/[0m
+[38;5;238m   4[0m   [38;5;238m│[0m 
+[38;5;238m   5[0m   [38;5;238m│[0m [38;5;231m   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION[0m
+[38;5;238m   6[0m   [38;5;238m│[0m 
+[38;5;238m   7[0m   [38;5;238m│[0m [38;5;231m   1. Definitions.[0m
+[38;5;238m   8[0m   [38;5;238m│[0m 
+[38;5;238m   9[0m   [38;5;238m│[0m [38;5;231m      "License" shall mean the terms and conditions for use, reproduction,[0m
+[38;5;238m  10[0m   [38;5;238m│[0m [38;5;231m      and distribution as defined by Sections 1 through 9 of this document.[0m
+[38;5;238m  11[0m   [38;5;238m│[0m 
+[38;5;238m  12[0m   [38;5;238m│[0m [38;5;231m      "Licensor" shall mean the copyright owner or entity authorized by[0m
+[38;5;238m  13[0m   [38;5;238m│[0m [38;5;231m      the copyright owner that is granting the License.[0m
+[38;5;238m  14[0m   [38;5;238m│[0m 
+[38;5;238m  15[0m   [38;5;238m│[0m [38;5;231m      "Legal Entity" shall mean the union of the acting entity and all[0m
+[38;5;238m  16[0m   [38;5;238m│[0m [38;5;231m      other entities that control, are controlled by, or are under common[0m
+[38;5;238m  17[0m   [38;5;238m│[0m [38;5;231m      control with that entity. For the purposes of this definition,[0m
+[38;5;238m  18[0m   [38;5;238m│[0m [38;5;231m      "control" means (i) the power, direct or indirect, to cause the[0m
+[38;5;238m  19[0m   [38;5;238m│[0m [38;5;231m      direction or management of such entity, whether by contract or[0m
+[38;5;238m  20[0m   [38;5;238m│[0m [38;5;231m      otherwise, or (ii) ownership of fifty percent (50%) or more of the[0m
+[38;5;238m  21[0m   [38;5;238m│[0m [38;5;231m      outstanding shares, or (iii) beneficial ownership of such entity.[0m
+[38;5;238m  22[0m   [38;5;238m│[0m 
+[38;5;238m  23[0m   [38;5;238m│[0m [38;5;231m      "You" (or "Your") shall mean an individual or Legal Entity[0m
+[38;5;238m  24[0m   [38;5;238m│[0m [38;5;231m      exercising permissions granted by this License.[0m
+[38;5;238m  25[0m   [38;5;238m│[0m 
+[38;5;238m  26[0m   [38;5;238m│[0m [38;5;231m      "Source" form shall mean the preferred form for making modifications,[0m
+[38;5;238m  27[0m   [38;5;238m│[0m [38;5;231m      including but not limited to software source code, documentation[0m
+[38;5;238m  28[0m   [38;5;238m│[0m [38;5;231m      source, and configuration files.[0m
+[38;5;238m  29[0m   [38;5;238m│[0m 
+[38;5;238m  30[0m   [38;5;238m│[0m [38;5;231m      "Object" form shall mean any form resulting from mechanical[0m
+[38;5;238m  31[0m   [38;5;238m│[0m [38;5;231m      transformation or translation of a Source form, including but[0m
+[38;5;238m  32[0m   [38;5;238m│[0m [38;5;231m      not limited to compiled object code, generated documentation,[0m
+[38;5;238m  33[0m   [38;5;238m│[0m [38;5;231m      and conversions to other media types.[0m
+[38;5;238m  34[0m   [38;5;238m│[0m 
+[38;5;238m  35[0m   [38;5;238m│[0m [38;5;231m      "Work" shall mean the work of authorship, whether in Source or[0m
+[38;5;238m  36[0m   [38;5;238m│[0m [38;5;231m      Object form, made available under the License, as indicated by a[0m
+[38;5;238m  37[0m   [38;5;238m│[0m [38;5;231m      copyright notice that is included in or attached to the work[0m
+[38;5;238m  38[0m   [38;5;238m│[0m [38;5;231m      (an example is provided in the Appendix below).[0m
+[38;5;238m  39[0m   [38;5;238m│[0m 
+[38;5;238m  40[0m   [38;5;238m│[0m [38;5;231m      "Derivative Works" shall mean any work, whether in Source or Object[0m
+[38;5;238m  41[0m   [38;5;238m│[0m [38;5;231m      form, that is based on (or derived from) the Work and for which the[0m
+[38;5;238m  42[0m   [38;5;238m│[0m [38;5;231m      editorial revisions, annotations, elaborations, or other modifications[0m
+[38;5;238m  43[0m   [38;5;238m│[0m [38;5;231m      represent, as a whole, an original work of authorship. For the purposes[0m
+[38;5;238m  44[0m   [38;5;238m│[0m [38;5;231m      of this License, Derivative Works shall not include works that remain[0m
+[38;5;238m  45[0m   [38;5;238m│[0m [38;5;231m      separable from, or merely link (or bind by name) to the interfaces of,[0m
+[38;5;238m  46[0m   [38;5;238m│[0m [38;5;231m      the Work and Derivative Works thereof.[0m
+[38;5;238m  47[0m   [38;5;238m│[0m 
+[38;5;238m  48[0m   [38;5;238m│[0m [38;5;231m      "Contribution" shall mean any work of authorship, including[0m
+[38;5;238m  49[0m   [38;5;238m│[0m [38;5;231m      the original version of the Work and any modifications or additions[0m
+[38;5;238m  50[0m   [38;5;238m│[0m [38;5;231m      to that Work or Derivative Works thereof, that is intentionally[0m
+[38;5;238m  51[0m   [38;5;238m│[0m [38;5;231m      submitted to Licensor for inclusion in the Work by the copyright owner[0m
+[38;5;238m  52[0m   [38;5;238m│[0m [38;5;231m      or by an individual or Legal Entity authorized to submit on behalf of[0m
+[38;5;238m  53[0m   [38;5;238m│[0m [38;5;231m      the copyright owner. For the purposes of this definition, "submitted"[0m
+[38;5;238m  54[0m   [38;5;238m│[0m [38;5;231m      means any form of electronic, verbal, or written communication sent[0m
+[38;5;238m  55[0m   [38;5;238m│[0m [38;5;231m      to the Licensor or its representatives, including but not limited to[0m
+[38;5;238m  56[0m   [38;5;238m│[0m [38;5;231m      communication on electronic mailing lists, source code control systems,[0m
+[38;5;238m  57[0m   [38;5;238m│[0m [38;5;231m      and issue tracking systems that are managed by, or on behalf of, the[0m
+[38;5;238m  58[0m   [38;5;238m│[0m [38;5;231m      Licensor for the purpose of discussing and improving the Work, but[0m
+[38;5;238m  59[0m   [38;5;238m│[0m [38;5;231m      excluding communication that is conspicuously marked or otherwise[0m
+[38;5;238m  60[0m   [38;5;238m│[0m [38;5;231m      designated in writing by the copyright owner as "Not a Contribution."[0m
+[38;5;238m  61[0m   [38;5;238m│[0m 
+[38;5;238m  62[0m   [38;5;238m│[0m [38;5;231m      "Contributor" shall mean Licensor and any individual or Legal Entity[0m
+[38;5;238m  63[0m   [38;5;238m│[0m [38;5;231m      on behalf of whom a Contribution has been received by Licensor and[0m
+[38;5;238m  64[0m   [38;5;238m│[0m [38;5;231m      subsequently incorporated within the Work.[0m
+[38;5;238m  65[0m   [38;5;238m│[0m 
+[38;5;238m  66[0m   [38;5;238m│[0m [38;5;231m   2. Grant of Copyright License. Subject to the terms and conditions of[0m
+[38;5;238m  67[0m   [38;5;238m│[0m [38;5;231m      this License, each Contributor hereby grants to You a perpetual,[0m
+[38;5;238m  68[0m   [38;5;238m│[0m [38;5;231m      worldwide, non-exclusive, no-charge, royalty-free, irrevocable[0m
+[38;5;238m  69[0m   [38;5;238m│[0m [38;5;231m      copyright license to reproduce, prepare Derivative Works of,[0m
+[38;5;238m  70[0m   [38;5;238m│[0m [38;5;231m      publicly display, publicly perform, sublicense, and distribute the[0m
+[38;5;238m  71[0m   [38;5;238m│[0m [38;5;231m      Work and such Derivative Works in Source or Object form.[0m
+[38;5;238m  72[0m   [38;5;238m│[0m 
+[38;5;238m  73[0m   [38;5;238m│[0m [38;5;231m   3. Grant of Patent License. Subject to the terms and conditions of[0m
+[38;5;238m  74[0m   [38;5;238m│[0m [38;5;231m      this License, each Contributor hereby grants to You a perpetual,[0m
+[38;5;238m  75[0m   [38;5;238m│[0m [38;5;231m      worldwide, non-exclusive, no-charge, royalty-free, irrevocable[0m
+[38;5;238m  76[0m   [38;5;238m│[0m [38;5;231m      (except as stated in this section) patent license to make, have made,[0m
+[38;5;238m  77[0m   [38;5;238m│[0m [38;5;231m      use, offer to sell, sell, import, and otherwise transfer the Work,[0m
+[38;5;238m  78[0m   [38;5;238m│[0m [38;5;231m      where such license applies only to those patent claims licensable[0m
+[38;5;238m  79[0m   [38;5;238m│[0m [38;5;231m      by such Contributor that are necessarily infringed by their[0m
+[38;5;238m  80[0m   [38;5;238m│[0m [38;5;231m      Contribution(s) alone or by combination of their Contribution(s)[0m
+[38;5;238m  81[0m   [38;5;238m│[0m [38;5;231m      with the Work to which such Contribution(s) was submitted. If You[0m
+[38;5;238m  82[0m   [38;5;238m│[0m [38;5;231m      institute patent litigation against any entity (including a[0m
+[38;5;238m  83[0m   [38;5;238m│[0m [38;5;231m      cross-claim or counterclaim in a lawsuit) alleging that the Work[0m
+[38;5;238m  84[0m   [38;5;238m│[0m [38;5;231m      or a Contribution incorporated within the Work constitutes direct[0m
+[38;5;238m  85[0m   [38;5;238m│[0m [38;5;231m      or contributory patent infringement, then any patent licenses[0m
+[38;5;238m  86[0m   [38;5;238m│[0m [38;5;231m      granted to You under this License for that Work shall terminate[0m
+[38;5;238m  87[0m   [38;5;238m│[0m [38;5;231m      as of the date such litigation is filed.[0m
+[38;5;238m  88[0m   [38;5;238m│[0m 
+[38;5;238m  89[0m   [38;5;238m│[0m [38;5;231m   4. Redistribution. You may reproduce and distribute copies of the[0m
+[38;5;238m  90[0m   [38;5;238m│[0m [38;5;231m      Work or Derivative Works thereof in any medium, with or without[0m
+[38;5;238m  91[0m   [38;5;238m│[0m [38;5;231m      modifications, and in Source or Object form, provided that You[0m
+[38;5;238m  92[0m   [38;5;238m│[0m [38;5;231m      meet the following conditions:[0m
+[38;5;238m  93[0m   [38;5;238m│[0m 
+[38;5;238m  94[0m   [38;5;238m│[0m [38;5;231m      (a) You must give any other recipients of the Work or[0m
+[38;5;238m  95[0m   [38;5;238m│[0m [38;5;231m          Derivative Works a copy of this License; and[0m
+[38;5;238m  96[0m   [38;5;238m│[0m 
+[38;5;238m  97[0m   [38;5;238m│[0m [38;5;231m      (b) You must cause any modified files to carry prominent notices[0m
+[38;5;238m  98[0m   [38;5;238m│[0m [38;5;231m          stating that You changed the files; and[0m
+[38;5;238m  99[0m   [38;5;238m│[0m 
+[38;5;238m 100[0m   [38;5;238m│[0m [38;5;231m      (c) You must retain, in the Source form of any Derivative Works[0m
+[38;5;238m 101[0m   [38;5;238m│[0m [38;5;231m          that You distribute, all copyright, patent, trademark, and[0m
+[38;5;238m 102[0m   [38;5;238m│[0m [38;5;231m          attribution notices from the Source form of the Work,[0m
+[38;5;238m 103[0m   [38;5;238m│[0m [38;5;231m          excluding those notices that do not pertain to any part of[0m
+[38;5;238m 104[0m   [38;5;238m│[0m [38;5;231m          the Derivative Works; and[0m
+[38;5;238m 105[0m   [38;5;238m│[0m 
+[38;5;238m 106[0m   [38;5;238m│[0m [38;5;231m      (d) If the Work includes a "NOTICE" text file as part of its[0m
+[38;5;238m 107[0m   [38;5;238m│[0m [38;5;231m          distribution, then any Derivative Works that You distribute must[0m
+[38;5;238m 108[0m   [38;5;238m│[0m [38;5;231m          include a readable copy of the attribution notices contained[0m
+[38;5;238m 109[0m   [38;5;238m│[0m [38;5;231m          within such NOTICE file, excluding those notices that do not[0m
+[38;5;238m 110[0m   [38;5;238m│[0m [38;5;231m          pertain to any part of the Derivative Works, in at least one[0m
+[38;5;238m 111[0m   [38;5;238m│[0m [38;5;231m          of the following places: within a NOTICE text file distributed[0m
+[38;5;238m 112[0m   [38;5;238m│[0m [38;5;231m          as part of the Derivative Works; within the Source form or[0m
+[38;5;238m 113[0m   [38;5;238m│[0m [38;5;231m          documentation, if provided along with the Derivative Works; or,[0m
+[38;5;238m 114[0m   [38;5;238m│[0m [38;5;231m          within a display generated by the Derivative Works, if and[0m
+[38;5;238m 115[0m   [38;5;238m│[0m [38;5;231m          wherever such third-party notices normally appear. The contents[0m
+[38;5;238m 116[0m   [38;5;238m│[0m [38;5;231m          of the NOTICE file are for informational purposes only and[0m
+[38;5;238m 117[0m   [38;5;238m│[0m [38;5;231m          do not modify the License. You may add Your own attribution[0m
+[38;5;238m 118[0m   [38;5;238m│[0m [38;5;231m          notices within Derivative Works that You distribute, alongside[0m
+[38;5;238m 119[0m   [38;5;238m│[0m [38;5;231m          or as an addendum to the NOTICE text from the Work, provided[0m
+[38;5;238m 120[0m   [38;5;238m│[0m [38;5;231m          that such additional attribution notices cannot be construed[0m
+[38;5;238m 121[0m   [38;5;238m│[0m [38;5;231m          as modifying the License.[0m
+[38;5;238m 122[0m   [38;5;238m│[0m 
+[38;5;238m 123[0m   [38;5;238m│[0m [38;5;231m      You may add Your own copyright statement to Your modifications and[0m
+[38;5;238m 124[0m   [38;5;238m│[0m [38;5;231m      may provide additional or different license terms and conditions[0m
+[38;5;238m 125[0m   [38;5;238m│[0m [38;5;231m      for use, reproduction, or distribution of Your modifications, or[0m
+[38;5;238m 126[0m   [38;5;238m│[0m [38;5;231m      for any such Derivative Works as a whole, provided Your use,[0m
+[38;5;238m 127[0m   [38;5;238m│[0m [38;5;231m      reproduction, and distribution of the Work otherwise complies with[0m
+[38;5;238m 128[0m   [38;5;238m│[0m [38;5;231m      the conditions stated in this License.[0m
+[38;5;238m 129[0m   [38;5;238m│[0m 
+[38;5;238m 130[0m   [38;5;238m│[0m [38;5;231m   5. Submission of Contributions. Unless You explicitly state otherwise,[0m
+[38;5;238m 131[0m   [38;5;238m│[0m [38;5;231m      any Contribution intentionally submitted for inclusion in the Work[0m
+[38;5;238m 132[0m   [38;5;238m│[0m [38;5;231m      by You to the Licensor shall be under the terms and conditions of[0m
+[38;5;238m 133[0m   [38;5;238m│[0m [38;5;231m      this License, without any additional terms or conditions.[0m
+[38;5;238m 134[0m   [38;5;238m│[0m [38;5;231m      Notwithstanding the above, nothing herein shall supersede or modify[0m
+[38;5;238m 135[0m   [38;5;238m│[0m [38;5;231m      the terms of any separate license agreement you may have executed[0m
+[38;5;238m 136[0m   [38;5;238m│[0m [38;5;231m      with Licensor regarding such Contributions.[0m
+[38;5;238m 137[0m   [38;5;238m│[0m 
+[38;5;238m 138[0m   [38;5;238m│[0m [38;5;231m   6. Trademarks. This License does not grant permission to use the trade[0m
+[38;5;238m 139[0m   [38;5;238m│[0m [38;5;231m      names, trademarks, service marks, or product names of the Licensor,[0m
+[38;5;238m 140[0m   [38;5;238m│[0m [38;5;231m      except as required for reasonable and customary use in describing the[0m
+[38;5;238m 141[0m   [38;5;238m│[0m [38;5;231m      origin of the Work and reproducing the content of the NOTICE file.[0m
+[38;5;238m 142[0m   [38;5;238m│[0m 
+[38;5;238m 143[0m   [38;5;238m│[0m [38;5;231m   7. Disclaimer of Warranty. Unless required by applicable law or[0m
+[38;5;238m 144[0m   [38;5;238m│[0m [38;5;231m      agreed to in writing, Licensor provides the Work (and each[0m
+[38;5;238m 145[0m   [38;5;238m│[0m [38;5;231m      Contributor provides its Contributions) on an "AS IS" BASIS,[0m
+[38;5;238m 146[0m   [38;5;238m│[0m [38;5;231m      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or[0m
+[38;5;238m 147[0m   [38;5;238m│[0m [38;5;231m      implied, including, without limitation, any warranties or conditions[0m
+[38;5;238m 148[0m   [38;5;238m│[0m [38;5;231m      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A[0m
+[38;5;238m 149[0m   [38;5;238m│[0m [38;5;231m      PARTICULAR PURPOSE. You are solely responsible for determining the[0m
+[38;5;238m 150[0m   [38;5;238m│[0m [38;5;231m      appropriateness of using or redistributing the Work and assume any[0m
+[38;5;238m 151[0m   [38;5;238m│[0m [38;5;231m      risks associated with Your exercise of permissions under this License.[0m
+[38;5;238m 152[0m   [38;5;238m│[0m 
+[38;5;238m 153[0m   [38;5;238m│[0m [38;5;231m   8. Limitation of Liability. In no event and under no legal theory,[0m
+[38;5;238m 154[0m   [38;5;238m│[0m [38;5;231m      whether in tort (including negligence), contract, or otherwise,[0m
+[38;5;238m 155[0m   [38;5;238m│[0m [38;5;231m      unless required by applicable law (such as deliberate and grossly[0m
+[38;5;238m 156[0m   [38;5;238m│[0m [38;5;231m      negligent acts) or agreed to in writing, shall any Contributor be[0m
+[38;5;238m 157[0m   [38;5;238m│[0m [38;5;231m      liable to You for damages, including any direct, indirect, special,[0m
+[38;5;238m 158[0m   [38;5;238m│[0m [38;5;231m      incidental, or consequential damages of any character arising as a[0m
+[38;5;238m 159[0m   [38;5;238m│[0m [38;5;231m      result of this License or out of the use or inability to use the[0m
+[38;5;238m 160[0m   [38;5;238m│[0m [38;5;231m      Work (including but not limited to damages for loss of goodwill,[0m
+[38;5;238m 161[0m   [38;5;238m│[0m [38;5;231m      work stoppage, computer failure or malfunction, or any and all[0m
+[38;5;238m 162[0m   [38;5;238m│[0m [38;5;231m      other commercial damages or losses), even if such Contributor[0m
+[38;5;238m 163[0m   [38;5;238m│[0m [38;5;231m      has been advised of the possibility of such damages.[0m
+[38;5;238m 164[0m   [38;5;238m│[0m 
+[38;5;238m 165[0m   [38;5;238m│[0m [38;5;231m   9. Accepting Warranty or Additional Liability. While redistributing[0m
+[38;5;238m 166[0m   [38;5;238m│[0m [38;5;231m      the Work or Derivative Works thereof, You may choose to offer,[0m
+[38;5;238m 167[0m   [38;5;238m│[0m [38;5;231m      and charge a fee for, acceptance of support, warranty, indemnity,[0m
+[38;5;238m 168[0m   [38;5;238m│[0m [38;5;231m      or other liability obligations and/or rights consistent with this[0m
+[38;5;238m 169[0m   [38;5;238m│[0m [38;5;231m      License. However, in accepting such obligations, You may act only[0m
+[38;5;238m 170[0m   [38;5;238m│[0m [38;5;231m      on Your own behalf and on Your sole responsibility, not on behalf[0m
+[38;5;238m 171[0m   [38;5;238m│[0m [38;5;231m      of any other Contributor, and only if You agree to indemnify,[0m
+[38;5;238m 172[0m   [38;5;238m│[0m [38;5;231m      defend, and hold each Contributor harmless for any liability[0m
+[38;5;238m 173[0m   [38;5;238m│[0m [38;5;231m      incurred by, or claims asserted against, such Contributor by reason[0m
+[38;5;238m 174[0m   [38;5;238m│[0m [38;5;231m      of your accepting any such warranty or additional liability.[0m
+[38;5;238m 175[0m   [38;5;238m│[0m 
+[38;5;238m 176[0m   [38;5;238m│[0m [38;5;231m   END OF TERMS AND CONDITIONS[0m
+[38;5;238m 177[0m   [38;5;238m│[0m 
+[38;5;238m 178[0m   [38;5;238m│[0m [38;5;231m   APPENDIX: How to apply the Apache License to your work.[0m
+[38;5;238m 179[0m   [38;5;238m│[0m 
+[38;5;238m 180[0m   [38;5;238m│[0m [38;5;231m      To apply the Apache License to your work, attach the following[0m
+[38;5;238m 181[0m   [38;5;238m│[0m [38;5;231m      boilerplate notice, with the fields enclosed by brackets "[]"[0m
+[38;5;238m 182[0m   [38;5;238m│[0m [38;5;231m      replaced with your own identifying information. (Don't include[0m
+[38;5;238m 183[0m   [38;5;238m│[0m [38;5;231m      the brackets!)  The text should be enclosed in the appropriate[0m
+[38;5;238m 184[0m   [38;5;238m│[0m [38;5;231m      comment syntax for the file format. We also recommend that a[0m
+[38;5;238m 185[0m   [38;5;238m│[0m [38;5;231m      file or class name and description of purpose be included on the[0m
+[38;5;238m 186[0m   [38;5;238m│[0m [38;5;231m      same "printed page" as the copyright notice for easier[0m
+[38;5;238m 187[0m   [38;5;238m│[0m [38;5;231m      identification within third-party archives.[0m
+[38;5;238m 188[0m   [38;5;238m│[0m 
+[38;5;238m 189[0m   [38;5;238m│[0m [38;5;231m   Copyright [yyyy] [name of copyright owner][0m
+[38;5;238m 190[0m   [38;5;238m│[0m 
+[38;5;238m 191[0m   [38;5;238m│[0m [38;5;231m   Licensed under the Apache License, Version 2.0 (the "License");[0m
+[38;5;238m 192[0m   [38;5;238m│[0m [38;5;231m   you may not use this file except in compliance with the License.[0m
+[38;5;238m 193[0m   [38;5;238m│[0m [38;5;231m   You may obtain a copy of the License at[0m
+[38;5;238m 194[0m   [38;5;238m│[0m 
+[38;5;238m 195[0m   [38;5;238m│[0m [38;5;231m       http://www.apache.org/licenses/LICENSE-2.0[0m
+[38;5;238m 196[0m   [38;5;238m│[0m 
+[38;5;238m 197[0m   [38;5;238m│[0m [38;5;231m   Unless required by applicable law or agreed to in writing, software[0m
+[38;5;238m 198[0m   [38;5;238m│[0m [38;5;231m   distributed under the License is distributed on an "AS IS" BASIS,[0m
+[38;5;238m 199[0m   [38;5;238m│[0m [38;5;231m   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.[0m
+[38;5;238m 200[0m   [38;5;238m│[0m [38;5;231m   See the License for the specific language governing permissions and[0m
+[38;5;238m 201[0m   [38;5;238m│[0m [38;5;231m   limitations under the License.[0m
+[38;5;238m───────┴────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[0m
